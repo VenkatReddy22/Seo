@@ -157,7 +157,7 @@ main ul li {
 /* Why Emergency Kits Section */
 #why-emergency-kits {
     position: relative;
-    background-image: url('/assets/emergency-car-kits/slider/outdoor.jpeg'); 
+    background-image: url('./assets/emergency-car-kits/slider/outdoor.jpeg'); 
     background-size: cover;
     background-position: center;
     padding: 60px 20px;
