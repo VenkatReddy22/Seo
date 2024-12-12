@@ -1,4 +1,4 @@
-/* To reset default margin and padding */
+
 * {
     margin: 0;
     padding: 0;
@@ -157,7 +157,7 @@ main ul li {
 /* Why Emergency Kits Section */
 #why-emergency-kits {
     position: relative;
-    background-image: url('./assets/emergency-car-kits/slider/outdoor.jpeg'); 
+    background-image: url('../assets/emergency-car-kits/slider/outdoor.jpeg'); 
     background-size: cover;
     background-position: center;
     padding: 60px 20px;
@@ -266,7 +266,7 @@ main ul li {
 }
 
 #whats-included ul {
-    list-style-image: url('/assets/Logo/favicon_57x57.png'); 
+    list-style-image: url('../assets/Logo/favicon_57x57.png'); 
     padding: 0;
     margin: 0;
     text-align: left; 
@@ -290,7 +290,7 @@ main ul li {
     transform: translateY(-50%); 
     width: 20px; 
     height: 20px; 
-    background-image: url('/assets/Logo/favicon_57x57.png'); 
+    background-image: url('../assets/Logo/favicon_57x57.png'); 
     background-size: contain; 
     background-repeat: no-repeat; 
 }
